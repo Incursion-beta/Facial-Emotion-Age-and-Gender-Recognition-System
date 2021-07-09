@@ -2,10 +2,8 @@
 This is a Keras implementation of a CNN for estimating age and gender from a face image [1, 2].
 In training, [the IMDB-WIKI dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) is used.
 
-- [Sep. 23, 2018] Demo from directory
-- [Aug. 11, 2018] Add age estimation sub-project [here](age_estimation)
-- [Jul. 5, 2018] The UTKFace dataset became available for training.
-- [Apr. 10, 2018] Evaluation result on the APPA-REAL dataset was added.
+Pre trained model can be downloaded from here[https://drive.google.com/drive/folders/1L7aBGGiHRGmHrMWReaboi3njH2Kb5DtK?usp=sharing]
+
 
 ## Dependencies
 - Python3.5+
