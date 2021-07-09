@@ -2,7 +2,7 @@
 This is a Keras implementation of a CNN for estimating age and gender from a face image [1, 2].
 In training, [the IMDB-WIKI dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) is used.
 
-Pre trained model can be downloaded from here[https://drive.google.com/drive/folders/1L7aBGGiHRGmHrMWReaboi3njH2Kb5DtK?usp=sharing]
+Pre trained model can be downloaded from [here] [https://drive.google.com/drive/folders/1L7aBGGiHRGmHrMWReaboi3njH2Kb5DtK?usp=sharing]
 
 
 ## Dependencies
