@@ -9,7 +9,7 @@ Pre trained model can be downloaded from [here.](https://drive.google.com/drive/
 - Python3.5+
 - Keras2.0+
 - scipy, numpy, Pandas, tqdm, tables, h5py
-- dlib (for demo)
+- dlib 
 - OpenCV3
 
 Tested on:
